@@ -9,4 +9,4 @@ Please visit to our blog to read any topic about technology, website, tutorial a
 
 [Cara Menghubungkan MongoDB Dengan Laravel Untuk CRUD Sederhana](https://www.catatanweb.com/cara-menghubungkan-mongodb-dengan-laravel) [Cara Integrasi Snap Midtrans Dengan Laravel](https://www.catatanweb.com/integrasi-snap-midtrans-dengan-laravel) [Tutorial Cara Membuat Fitur Login Google Dengan PHP](https://www.catatanweb.com/membuat-fitur-login-google-dengan-php) [Cara Mengatasi HP Android Lemot Menjadi Lebih Ngebut!](https://www.catatanweb.com/cara-mengatasi-hp-android-lemot) [Tutorial Membuat REST API CRUD Dengan Framework Lumen](https://www.catatanweb.com/membuat-rest-api-dengan-framework-lumen)
 
-Check your [website's backlinks](https://www.seodinary.com/backlink-checker), [SEO Checker](https://www.seodinary.com/seo-site-checker) on [seodinary.com](https://www.seodinary.com/)
+Check your [website's backlinks](https://www.sitecloudtools.com/backlink-checker), [SEO Checker](https://www.sitecloudtools.com/seo-site-checker) on [sitecloudtools.com](https://www.sitecloudtools.com/)
