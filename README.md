@@ -6,4 +6,4 @@ Free tools for SEO, domain, content, website AI based technology
 -------------------------------------------------
 Website [https://www.genelify.com](https://www.genelify.com)
 
-Chrome Web Store [https://chromewebstore.google.com/search/genelify.com](https://chromewebstore.google.com/search/genelify.com)
+[![Chrome Web Store](https://raw.githubusercontent.com/genelifydotcom/genelify/main/images/chrome-extension.png)](https://chromewebstore.google.com/search/genelify.com)
