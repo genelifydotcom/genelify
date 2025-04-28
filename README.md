@@ -1,9 +1,8 @@
-# genelify
-Free tools for SEO, domain, content, website AI based technology
+# Genelify
 
-[Genelify](https://www.genelify.com) is a multifunctional platform for SEO, domains, content, tools to view website technology stack or audit your website's seo to make it easier for you to analyze your website in order to get the best ranking in search engines.
+[Genelify](https://www.genelify.com) is a platform for online productivity tools that help with web development, SEO, data analysis, and other digital needs.
 
 -------------------------------------------------
-Website [https://www.genelify.com](https://www.genelify.com)
+Website: [https://www.genelify.com](https://www.genelify.com)
 
 [![Chrome Web Store](https://raw.githubusercontent.com/genelifydotcom/genelify/main/images/chrome-extension.png)](https://chromewebstore.google.com/search/genelify.com)
