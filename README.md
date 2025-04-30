@@ -5,5 +5,5 @@
 -------------------------------------------------
 Website: [https://www.genelify.com](https://www.genelify.com)
 
-[![Google Play Store](https://raw.githubusercontent.com/genelifydotcom/genelify/main/images/google-play.png)](https://play.google.com/store/apps/details?id=com.genelify.app)
+[![Google Play Store](https://raw.githubusercontent.com/genelifydotcom/genelify/main/images/google-play-store.png)](https://play.google.com/store/apps/details?id=com.genelify.app)
 [![Chrome Web Store](https://raw.githubusercontent.com/genelifydotcom/genelify/main/images/chrome-extension.png)](https://chromewebstore.google.com/search/genelify.com)
