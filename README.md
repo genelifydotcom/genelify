@@ -1,4 +1,4 @@
-# Genelify
+# Genelify: Online AI-Powered Tools
 
 [Genelify](https://www.genelify.com) is a platform for online productivity tools that help with web development, SEO, data analysis, and other digital needs.
 
